@@ -1,0 +1,17 @@
+
+        body {
+            background-color: grey;
+            align-items: center;
+        }
+
+ h1{
+    text-align: center;
+ }
+
+ #greenbutton{
+background-color: green;
+ }
+
+ #redbutton{
+    background-color: red;
+     }
